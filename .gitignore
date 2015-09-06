@@ -57,4 +57,4 @@ docs/_build/
 target/
 
 # IPython 1.0 creates intermediate checkpoints
-.ipynb_checkpoints
+.ipynb_checkpoints/
